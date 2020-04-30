@@ -1,0 +1,26 @@
+{
+  "name": "firstchallenge-tictactoe",
+  "version": "1.0.0",
+  "description": "My first challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NouhaChorfi/FirstChallenge-TicTacToe.git"
+  },
+  "author": "Nouha chorfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NouhaChorfi/FirstChallenge-TicTacToe/issues"
+  },
+  "homepage": "https://github.com/NouhaChorfi/FirstChallenge-TicTacToe#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.43.0"
+  }
+}

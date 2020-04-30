@@ -1,0 +1,13 @@
+.square{
+    width:100px;
+    height:100px;
+    background-color: cornflowerblue;
+    /*background-image: url('images/donuts.png');*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#matrix{
+    margin-top: 10%;
+    margin-left: 30%;
+    
+}
